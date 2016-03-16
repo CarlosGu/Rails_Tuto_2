@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    puts "Hola algo"
+    puts "Adios algo"
   end
 end
